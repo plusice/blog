@@ -69,4 +69,5 @@ theme: landscape
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:Jokcy/blog.git
+  repo: git@github.com:Jokcy/Jokcy.github.io.git
+  branch: master
