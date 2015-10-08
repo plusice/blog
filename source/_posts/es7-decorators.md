@@ -1,4 +1,4 @@
-title: es7-decorators
+title: 讨论一下es7的装饰器
 date: 2015-09-25 14:30:55
 tags:
 ---
