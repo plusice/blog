@@ -20,6 +20,7 @@ widgets:
 # Miscellaneous
 google_analytics: UA-49483742-2
 favicon: /favicon.png
+disqus_shortname: jokcyblog
 twitter:
 google_plus:
 fb_admins:
