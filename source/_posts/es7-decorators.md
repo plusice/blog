@@ -1,6 +1,6 @@
 title: 讨论一下es7的装饰器
 date: 2015-09-25 14:30:55
-tags:
+tags: [es2015, es2016, decorators]
 ---
 
 >近期一直在做react的项目，看了很多开源项目的代码，其中有一个`redux-react-router-async-example`的项目给我印象深刻，因为。。。代码看不懂啊！！！

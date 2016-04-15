@@ -1,6 +1,6 @@
 title: redux深入学习之中间件机制
 date: 2015-10-29 11:41:20
-tags: react | flux | redux
+tags: [react, flux, redux]
 ---
 
 >上一篇文章讲解了redux如何使用，本篇文章将进一步深入，从redux的源码入手，深入学习redux的中间件机制。
